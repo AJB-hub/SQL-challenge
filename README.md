@@ -3,10 +3,10 @@
 Reconstructing a company's HR information database from CSV files using PostGreSQL, and querying the data for relevant data.  
 
 ### Entity Relationship Diagram
-<img src='./ERD_emp1.png'>  
+<img src='./visualization/ERD_emp1.png'>  
 
 ### Queries
-<img src='./queries.png'> 
+<img src='./visualization/queries.png'> 
 
 
 ### Additional Analysis
